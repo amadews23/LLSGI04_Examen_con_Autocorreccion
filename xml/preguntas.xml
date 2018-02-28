@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE questions>
+
+<questions>
+    <question id="profe_001">
+	<type>text</type>
+	<title>1-¿Cuantos pétalos tiene la azucena o el lilium?</title>
+	<answer>6</answer>
+    </question>
+    <question id="profe_002">
+	<type>select</type>
+	<title>2-¿De que continente procede la chumbera o "figuera de moro"? </title>
+	<option>África</option>
+	<option>Asia</option>
+	<option>América</option>
+	<option>Oceanía</option>
+	<answer>2</answer>
+    </question>
+     <question id="profe_003">
+	<type>checkbox</type>
+	<title>3-¿Cuales de las siguientes plantas son coníferas?</title>
+	<option>Enebro</option>
+	<option>Boj</option>
+	<option>Pino</option>
+	<option>Tejo</option>
+	<answer>0</answer>
+	<answer>2</answer>
+	<answer>3</answer>
+    </question>
+     <question id="profe_004">
+	<type>radio</type>
+	<title>4-¿Qué planta de la lista no es una solanacea?</title>
+	<option>Tomate</option>
+	<option>Estramonio</option>
+	<option>Tabaco</option>
+	<option>Pepino</option>
+	<answer>3</answer>
+    </question>
+     <question id="profe_005">
+	<type>text</type>
+	<title>5-¿A qué familia pertenece el manzano, el membrillero y la zarzamora?</title>
+	<answer>ROSÁCEAS</answer>
+    </question>
+    <question id="profe_006">
+	<type>text</type>
+	<title>6-¿Cuantos pétalos tienen las flores de las solanáceas?</title>
+	<answer>5</answer>
+    </question>
+    <question id="profe_007">
+	<type>select</type>
+	<title>7-¿De que continente es originario el café"? </title>
+	<option>África</option>
+	<option>Asia</option>
+	<option>América</option>
+	<option>Oceanía</option>
+	<answer>1</answer>
+    </question>
+     <question id="profe_008">
+	<type>checkbox</type>
+	<title>8-¿Cuales de las siguientes plantas son compuestas?</title>
+	<option>Lechuga</option>
+	<option>Alcachofa</option>
+	<option>Margaritas</option>
+	<option>Coliflor</option>
+	<answer>0</answer>
+	<answer>1</answer>
+	<answer>2</answer>
+    </question>
+     <question id="profe_009">
+	<type>radio</type>
+	<title>9-¿Qué planta de la lista no es crucífera?</title>
+	<option>Rúcula</option>
+	<option>Lechuga</option>
+	<option>Coliflor </option>
+	<option>Repollo</option>
+	<answer>1</answer>
+    </question>
+     <question id="profe_010">
+	<type>text</type>
+	<title>10-¿A qué familia pertenece el melón, la sandía y la calabaza ?</title>
+	<answer>CURCUBITÁCEAS</answer>
+    </question>
+</questions>
