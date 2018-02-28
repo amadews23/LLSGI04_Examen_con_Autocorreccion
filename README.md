@@ -1,4 +1,4 @@
-# LLSGI04_Examen con Autocorrección con Javascript
+# LLSGI04 Examen con Autocorrección con Javascript
 ## Segunda parte del desarrollo del desarrollo de un examen. 
 
 ### El proyecto se compone de:
