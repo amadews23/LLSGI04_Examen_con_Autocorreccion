@@ -31,7 +31,7 @@ Todas las imágenes han sido optimizadas con http://tinypng.com.
 ### El enlace:
 Este es el enlace para ver la página web:
   
-  https://rawgit.com/amadews23/LLSGI04_Examen_con_Autocorrecion/master/index.html
+  https://rawgit.com/amadews23/LLSGI04_Examen_con_Autocorreccion/master/index.html
 
 
 
