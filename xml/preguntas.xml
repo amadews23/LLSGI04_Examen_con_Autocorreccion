@@ -48,7 +48,7 @@
     </question>
     <question id="profe_007">
 	<type>select</type>
-	<title>7-¿De que continente es originario el café"? </title>
+	<title>7-¿De que continente es originario el café? </title>
 	<option>África</option>
 	<option>Asia</option>
 	<option>América</option>
