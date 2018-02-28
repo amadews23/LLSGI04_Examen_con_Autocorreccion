@@ -2,17 +2,13 @@ var formElement=null;
 var numeroSecreto=null;
 var respuestaSelect=null;
 var respuestasCheckbox = [];
-//
 var numeroSecreto2=null;
 var respuestaSelect2=null;
 var respuestasCheckbox2 = [];
-//Anyadido
 var respuestaRadio = null;
 var textoSecreto=null;
 var respuestaRadio2 = null;
 var textoSecreto2=null;
-
-//
 var nota = 0;  //nota de la prueba sobre 3 puntos (hay 3 preguntas)
 
 //**************************************************************************************************** 
