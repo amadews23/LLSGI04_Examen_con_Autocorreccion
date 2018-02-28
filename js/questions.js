@@ -9,7 +9,7 @@ var respuestaRadio = null;
 var textoSecreto=null;
 var respuestaRadio2 = null;
 var textoSecreto2=null;
-var nota = 0;  //nota de la prueba sobre 3 puntos (hay 3 preguntas)
+var nota = 0;  
 
 //**************************************************************************************************** 
 //Después de cargar la página (onload) se definen los eventos sobre los elementos entre otras acciones.
