@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<!DOCTYPE questions>
+<!DOCTYPE questions SYSTEM "preguntas.dtd">
 
 <questions>
     <question id="profe_001">
@@ -17,7 +16,7 @@
 	<option>Oceanía</option>
 	<answer>2</answer>
     </question>
-     <question id="profe_003">
+    <question id="profe_003">
 	<type>checkbox</type>
 	<title>3-¿Cuales de las siguientes plantas son coníferas?</title>
 	<option>Enebro</option>
