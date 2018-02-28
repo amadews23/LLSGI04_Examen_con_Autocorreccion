@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT questions (question)+>
+<!ATTLIST questions>
+
+<!ELEMENT question (type,title,option*,answer+)>
+<!ATTLIST question>
+
+<!ELEMENT type (#PCDATA)>
+<!ATTLIST type>
+
+<!ELEMENT title (#PCDATA)>
+<!ATTLIST title>
+
+<!ELEMENT option (#PCDATA)>
+<!ATTLIST option>
+
+<!ELEMENT answer (#PCDATA)>
+<!ATTLIST answer>
+
