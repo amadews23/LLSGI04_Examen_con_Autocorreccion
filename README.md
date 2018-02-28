@@ -23,11 +23,12 @@ La imagen del examen procede de https://images.pexels.com/photos/590516/pexels-p
 
 Todas las imágenes han sido optimizadas con http://tinypng.com.  
  
-#### Las preguntas y las respuestas 
+### Las preguntas y las respuestas 
 * Mediante Javascript son extraidas de xml/preguntas.xml.
 * Cuando una respuesta es erronea se resta 0,25 y si es acertada suma 1 punto.
 * Se han de contestar todas.
-
+### El xml y el dtd 
+* Han sido validados en https://www.xmlvalidation.com/
 ### El enlace:
 Este es el enlace para ver la página web:
   
